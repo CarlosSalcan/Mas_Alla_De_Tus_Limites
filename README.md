@@ -24,6 +24,7 @@ Bienvenido a "Más Allá de tus Límites" 🧠, un proyecto escolar diseñado pa
 ## Estructura del Proyecto
 
 La estructura de archivos del proyecto es la siguiente:
+```plaintext
 MasAllaDeTusLimites/
 │
 ├── assets/
@@ -37,7 +38,7 @@ MasAllaDeTusLimites/
 ├── styles.css
 ├── styles.js
 └── video.html
-
+```
 
 
 ## Instalación 🗒️
